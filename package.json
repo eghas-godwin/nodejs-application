@@ -22,11 +22,11 @@
     "sonarqube-scanner": "^2.7.0"
   },
   "engines": {
-    "node": "v10.6.0"
+    "node": "v18.9.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/eghas-godwin/nodejs-application.git"
   },
   "keywords": [
     "node",
